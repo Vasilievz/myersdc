@@ -1,4 +1,4 @@
-### Hello! I'am Myers ✌️
+### Hello, I call myers, I'm 19 years old! ✌️
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.myerszz/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eRd5j9x83G)
