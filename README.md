@@ -19,7 +19,7 @@
 <br/><br/>
 Apaixonado por tecnologia e animais, porém nada me deixa mais feliz do que você!
 
-Não sou um Dev, apenas um curioso por coisas novas e aprendendo mais a cada dia que se passa.
+Não sou um Dev, apenas um curioso por coisas novas, aprendendo mais a cada dia que se passa.
 
 ## Útilmos vídeos do canal: 
 
