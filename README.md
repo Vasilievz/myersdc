@@ -6,8 +6,7 @@
 
 ![Myers GitHub stats](https://github-readme-stats.vercel.app/api?username=myersdc&show_icons=true&theme=dracula)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myersdc)](https://github.com/myersdc/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myersdc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Everyday Technologies
 
