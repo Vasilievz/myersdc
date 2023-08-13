@@ -19,6 +19,8 @@
 <br/><br/>
 Apaixonado por tecnologia e animais, porém nada me deixa mais feliz do que você!
 
+Não sou um Dev, apenas um curioso por coisas novas e aprendendo mais a cada dia que se passa.
+
 ## Útilmos vídeos do canal: 
 
 - [Bot Vendas Automáticas Discord V2 BETA, Sistema de Nitro por invites, e escolher cor da embed.](https://youtu.be/JLZctIhXklU)
