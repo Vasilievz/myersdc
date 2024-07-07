@@ -1,8 +1,5 @@
 ### Hello, I call myers, I'm 20 years old! ✌️
 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.myerszz/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChbV6ZhASeRASyXLhFWSW0A)
-
 ![Myers GitHub stats](https://github-readme-stats.vercel.app/api?username=myersdc&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myersdc&layout=compact)
@@ -20,7 +17,3 @@
 <br/><br/>
 Apaixonado por tecnologia e animais, porém nada me deixa mais feliz do que você!
 
-## Útilmos vídeos do canal: 
-
-- [Bot Vendas Automáticas Discord V2 BETA, Sistema de Nitro por invites, e escolher cor da embed.](https://youtu.be/JLZctIhXklU)
-- [Bot de Pix - Vendas automáticas para o discord, totalmente em Slash (New)](https://youtu.be/EScHRj9dAJ4)
