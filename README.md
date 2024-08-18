@@ -15,5 +15,4 @@
 
 </div>
 <br/><br/>
-Apaixonado por tecnologia e animais, porém nada me deixa mais feliz do que você!
 
